@@ -1,11 +1,12 @@
-Solar Project
+Solar System Explorer
 📌 Overview
 
-The Solar Project is a web/application project built to demonstrate or manage solar-related functionality (update this line based on your actual use: e.g. energy tracking, solar panel simulation, calculator, etc.).
+The Solar Project is an interactive and animated solar system explorer built for visualizing planets and their orbital structure. It allows users to explore the solar system in a dynamic and engaging way, where each planet is displayed with accurate relative size, distance scaling, and motion behavior to simulate real astronomical movement.
+
+The project focuses on making space exploration more visual and educational by representing planetary orbits, sizes, and spacing in a simplified but structured format. Users can observe how planets revolve around the sun and understand their comparative scale and positioning within the solar system.
 
 🚀 Features
 🌞 Solar data tracking / visualization
-⚡ Energy calculation or simulation
 📊 Simple and user-friendly interface
 📱 Responsive design (if applicable)
 🛠️ Tech Stack
