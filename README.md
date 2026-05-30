@@ -11,6 +11,7 @@ The Solar Project is a web/application project built to demonstrate or manage so
 🛠️ Tech Stack
 HTML / CSS / JavaScript 
 React / Node.js / Python 
+Open the Link:http://127.0.0.1:5500/index45.html
 
 <img width="1822" height="887" alt="image" src="https://github.com/user-attachments/assets/cdc113ce-a52e-4168-b299-4fe18b5ab0cb" />
 
